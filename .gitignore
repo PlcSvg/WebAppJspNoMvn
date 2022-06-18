@@ -1,0 +1,7 @@
+.ides
+libs/
+out/
+
+#
+.libs
+.out

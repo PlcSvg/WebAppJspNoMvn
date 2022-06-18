@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="javax.annotation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mysql-connector-java-8.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ojdbc8-21.5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/taglibs-standard-spec-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
